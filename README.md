@@ -65,6 +65,8 @@
 
 ## Install
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/tiaanduplessis/south-african-id-info.svg)](https://greenkeeper.io/)
+
 ```sh
 $ npm install --save south-african-id-info
 # OR
