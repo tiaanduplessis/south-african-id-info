@@ -38,7 +38,7 @@
   ],
   "dependencies": {
     "prettyjson": "^1.2.1",
-    "valid-south-african-id": "^1.0.0"
+    "valid-south-african-id": "^1.0.1"
   },
   "devDependencies": {
     "husky": "^0.14.3",
