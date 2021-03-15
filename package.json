@@ -1,6 +1,6 @@
 {
   "name": "south-african-id-info",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Validate and decode information from an South African ID",
   "license": "MIT",
   "main": "index.js",
